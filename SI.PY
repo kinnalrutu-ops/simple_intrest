@@ -1,0 +1,8 @@
+print("simple intrest calculator")
+p=int(input())
+print("enter principle:",p)
+r=int(input())
+print("enter rate:",r)
+t=int(input())
+print("enter time:",t)
+print("simple intrest:",p*t*r)
