@@ -18,3 +18,4 @@ amount = p * (1 + r / n) ** (n * t)
 compound_interest = amount - p
 print("Compound Interest:", compound_interest)
 
+print("hi")
